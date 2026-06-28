@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there! I'm a Web Developer 🚀
+
+Welcome to my profile. I build useful web applications and digital tools.
+
+## My Top Projects
+* [Global Tools Box](https://globaltoolsbox.blogspot.com) — Free online web utilities for image resizing, text formatting, and daily digital tasks.
